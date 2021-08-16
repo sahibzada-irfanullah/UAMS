@@ -4,4 +4,11 @@ It also presents the complete procedure for solving the problem.
 
 The project also contain the .exe file that can be directly executed. 
 
-# How to run?
+
+# Run the code
+You can run the code using the following command:
+
+```
+java MUam
+```
+
